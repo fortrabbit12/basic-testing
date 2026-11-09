@@ -1,0 +1,2 @@
+# basic-testing
+Automated tests.
